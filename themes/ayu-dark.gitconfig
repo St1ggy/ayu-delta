@@ -1,4 +1,4 @@
-[delta "ayu-dark"]
+[delta "ayu"]
 	minus-style = syntax "#3D1F24"
 	minus-emph-style = syntax "#FF3333" "#3D1F24"
 	plus-style = syntax "#1F3028"
