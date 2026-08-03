@@ -1,0 +1,10 @@
+[delta "ayu-dark"]
+	minus-style = syntax "#3D1F24"
+	minus-emph-style = syntax "#FF3333" "#3D1F24"
+	plus-style = syntax "#1F3028"
+	plus-emph-style = syntax "#C2D94C" "#1F3028"
+	file-style = bold "#59C2FF"
+	hunk-header-style = bold "#FFB454"
+	commit-decoration-style = bold "#FFB454" box ul
+	line-numbers-minus-style = "#FF3333"
+	line-numbers-plus-style = "#C2D94C"
